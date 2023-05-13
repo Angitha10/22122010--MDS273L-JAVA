@@ -16,5 +16,5 @@ The names collected must be stored in an array with a max length of 1024.
 The names in the array should be UNIQUE; no duplicate entries are expected!
 Provide necessary validations that the user enters only valid names that are not going to be repeated.
 Removing a name should not create empty space inside the array!
-Format your results properly!!
+Format your results properly!!\
 (["LAB2_FLOWCHART"](https://drive.google.com/file/d/1E-Cbw6EnsZsrknTDPRS8pJIL3xiYE7GX/view?usp=share_link))
