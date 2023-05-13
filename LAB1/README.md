@@ -12,4 +12,4 @@ Email: angitha.g@msds.christuniversity.in
 * Assume that you can divide the states among India into different regions (North, South, Central, East, and West). If the employee is from the southern part of India, with the help of a switch statement, it should display **"The Employee is from the southern states of India; Preferable work location is in <state>".**, along with the basic details.
 * Identify if the employee belongs to the top MNC Companies (Facebook, Google, Microsoft, Samsung, IBM, Apple); if so, print a message **"The employee is working in Top MNC Companies".**
 
-("LAB1_FLOWCHART")
+(["LAB1_FLOWCHART"](https://drive.google.com/file/d/1GURt9Io1cmBWtcQj5QluY_-h-pRgmsAZ/view?usp=share_link))
