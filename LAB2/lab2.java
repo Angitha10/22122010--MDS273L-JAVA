@@ -30,7 +30,7 @@ public class lab2 {
                 case 4:
                     break;
                 default:
-                    System.out.println("Invalid option. Try again.");
+                    System.out.println("The option is valid option.");
             }
         } while (option != 4);
 
@@ -42,13 +42,13 @@ public class lab2 {
         String name = sc.next();
 
         if (count == 1024) {
-            System.out.println("Array is full. Can't add more names.");
+            System.out.println("No more elements can be added. The array is full.");
             return;
         }
 
         for (int i = 0; i < count; i++) {
             if (names[i].equalsIgnoreCase(name)) {
-                System.out.println("Name already exists. Try a different name.");
+                System.out.println("Name already exists. Enter a different name.");
                 return;
             }
         }

@@ -48,6 +48,7 @@ public class lab1 {
             case "Tamil Nadu":
             case "Andhra Pradesh":
             System.out.println("The Employee is from the southern states of India; Preferable work location is in Banglore");
+            break;
             case "Maharashtra":
             case "Gujarat":
             System.out.println("The Employee is from the western states of India; Preferable work location is in Mumbai");

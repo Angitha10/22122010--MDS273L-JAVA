@@ -32,3 +32,5 @@ Note: Make use of functions to implement the menu options.
 * Add proper comments in the code.
 * Create a flowchart using the online tool and update the README.md file.
 * Update the changes to the GitHub website and submit the URL.
+
+("lab6flowchart")
